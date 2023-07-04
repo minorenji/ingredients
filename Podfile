@@ -6,7 +6,5 @@ target 'ingredients' do
   use_frameworks!
 
   # Pods for ingredients
-  pod 'Firebase/Core'
-  pod 'Firebase/Auth'
 
 end
