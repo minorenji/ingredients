@@ -1,0 +1,6 @@
+framework module Pods_ingredients {
+  umbrella header "Pods-ingredients-umbrella.h"
+
+  export *
+  module * { export * }
+}
